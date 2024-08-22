@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "googlenews",
+    "name": "Google News"
+    },
+    "author": "ESPN",
+    "title": "Sources  Cleveland Cavaliers hiring Kenny Atkinson as coach  ESPN",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwNDIwNDAxL3NvdXJjZXMtY2xldmVsYW5kLWNhdmFsaWVycy1oaXJpbmcta2VubnktYXRraW5zb24tY29hY2jSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "20240624T14:18:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbsnews",
+    "name": "CBS News"
+    },
+    "author": "Kaia Hubbard",
+    "title": "Biden and Trump face off this week in the first presidential debate. Here's what we know so far about the debate, prep and more  CBS News",
+    "description": "President Biden and former President Donald are set to once again face off on Thursday as the campaign heats up.",
+    "url": "https://www.cbsnews.com/news/firstpresidentialdebatebidentrumpstructureprep/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/06/23/d8ce8a82c30340e399eb1d89f059b68b/thumbnail/1200x630/aadd731b4adfa2a05a461914fb36f8d1/gettyimages1229229622.jpg?v=cb1f2643a8816828741cfb3a3fb2d931",
+    "publishedAt": "20240624T14:14:53Z",
+    "content": "Washington — President Biden and former President Donald Trump are set to face off this week in the first presidential debate of the cycle, as the nation prepares for a rematch of the 2020 race. \r\nTh… [+4763 chars]"
+    },
+    {
+    "source": {
+    "id": "associatedpress",
+    "name": "Associated Press"
+    },
+    "author": "TIA GOLDENBERG, SAMY MAGDY",
+    "title": "IsraelHamas war: Netanyahu's latest comments test USbacked truce proposal  The Associated Press",
+    "description": "The viability of a U.S.backed proposal to wind down the 8monthlong war in Gaza was cast into doubt after Israeli Prime Minister Benjamin Netanyahu said he would only be willing to agree to a “partial” ceasefire deal that would not end the war. His comment…",
+    "url": "https://apnews.com/article/israelpalestinianshamaswarnews06242024f5de2ed8288ac3cdb02c4e9e2fbaeda1",
+    "urlToImage": "https://dims.apnews.com/dims4/default/3a61f09/2147483647/strip/true/crop/8236x4633+0+429/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F40%2F242a815077d2adee19f2b077ccf8%2F4e723d6b53d4468b9acb52fee291c357",
+    "publishedAt": "20240624T14:11:00Z",
+    "content": "TEL AVIV, Israel (AP) The viability of a U.S.backed proposal to wind down the 8monthlong war in Gaza was cast into doubt on Monday after Israeli Prime Minister Benjamin Netanyahu said he would onl… [+5933 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nintendo Life"
+    },
+    "author": "Nintendo Life",
+    "title": "Review: Super Monkey Ball Banana Rumble (Switch)  Super SinglePlayer, But Multiplayer's A Mess  Nintendo Life",
+    "description": "Rumble bumbled",
+    "url": "https://www.nintendolife.com/reviews/nintendoswitch/supermonkeyballbananarumble",
+    "urlToImage": "https://images.nintendolife.com/32b7aa0c6bd15/1280x720.jpg",
+    "publishedAt": "20240624T14:00:00Z",
+    "content": "Subscribe to Nintendo Life on YouTube770k\r\nThe Super Monkey Ball franchise has experienced its fair share of peaks and troughs over the years. The first two GameCube titles knocked it out of the park… [+5861 chars]"
+    },
+    {
+    "source": {
+    "id": "googlenews",
+    "name": "Google News"
+    },
+    "author": "NBC News",
+    "title": "Supreme Court to weigh state restrictions on genderaffirming care for youths  NBC News",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3N1cHJlbWUtY291cnQvc3VwcmVtZS1jb3VydC13ZWlnaC1zdGF0ZS1yZXN0cmljdGlvbnMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLXlvdXRocy1yY25hMTQyODI10gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MjgyNQ?oc=5",
+    "urlToImage": null,
+    "publishedAt": "20240624T13:35:21Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "abcnews",
+    "name": "ABC News"
+    },
+    "author": "WYATTE GRANTHAMPHILIPS AP business writer",
+    "title": "Car dealerships in North America revert to pens and paper after cyberattacks on software provider  ABC News",
+    "description": "Car dealerships across North America continue to wrestle with disruptions that started last week",
+    "url": "https://abcnews.go.com/US/wireStory/cardealershipsnorthamericarevertpenspaperafter111364086",
+    "urlToImage": "https://i.abcnewsfe.com/a/56a63b397dec4eb09206babd0e5efd86/wirestory_3f7c81f6be0e212172b33cdc9f49feba_16x9.jpg?w=1600",
+    "publishedAt": "20240624T13:30:00Z",
+    "content": "NEW YORK  Car dealerships in North America continue to wrestle with major disruptions that started last week with cyberattacks on a software company used widely in the auto retail sales sector. \r\nC… [+3919 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KCCI Des Moines"
+    },
+    "author": null,
+    "title": "Caitlin Clark vs. Angel Reese: Both rookie stars deliver Sunday  KCCI Des Moines",
+    "description": "Caitlin Clark and Angel Reese each put up record numbers Sunday in the latest matchup between the top two WNBA rookies.",
+    "url": "https://www.kcci.com/article/caitlinclarkangelreeseindianafeverchicagoskyscorestats/61233487",
+    "urlToImage": "https://kubrick.htvapps.com/htvprodmedia.s3.amazonaws.com/images/gettyimages215842370166796ea6cfb90.jpg?crop=1.00xw:0.807xh;0,0.00932xh&resize=1200:*",
+    "publishedAt": "20240624T13:04:00Z",
+    "content": "CHICAGO (AP) —Angel Reese had just pulled off the best performance of her young career to help the Chicago Sky rally past the Indiana Fever and old college rival Caitlin Clark on Sunday.\r\nVideo above… [+3965 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Decrypt"
+    },
+    "author": "Tarang Khaitan",
+    "title": "Nearly $100 Million Longs Liquidated as Bitcoin Dips Below $61,000  Decrypt",
+    "description": "In stark contrast, derivatives traders who shorted assets saw minor losses, as short liquidations now stand at just $25 million.",
+    "url": "https://decrypt.co/236731/bitcoin100millionlongsliquidatedbtcdipsbelow61000",
+    "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wpcontent/uploads/2024/06/bitcoinbtcliquidiationderivativeslongsgID_7.jpeg",
+    "publishedAt": "20240624T13:01:33Z",
+    "content": "Bears appear to be in control of the market, as the leading cryptocurrency Bitcoin has dropped below the $61,000 mark. As it has, nearly $100 million worth of BTC longs have been wiped out in the pas… [+2121 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BuzzFeed News"
+    },
+    "author": "Leyla Mohammed",
+    "title": "Taylor Swift Just Surprised Fans By Bringing Travis Kelce Out On Stage At The Eras Tour  BuzzFeed News",
+    "description": "Much to fans’ delight, Travis joined Taylor on stage in London during her “I Can Do It With a Broken Heart” outfit change.",
+    "url": "https://www.buzzfeednews.com/article/leylamohammed/taylorswifttraviskelcestageerastourlondon",
+    "urlToImage": "https://img.buzzfeed.com/buzzfeedstatic/static/202406/24/11/enhanced/6c16dcf66255/original409817192294355.jpg?crop=915:479;146,34%26downsize=1250:*",
+    "publishedAt": "20240624T12:35:55Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "ign",
+    "name": "IGN"
+    },
+    "author": "Adele AnkersRange",
+    "title": "Inside Out 2 Surpasses Dune: Part 2 as HighestGrossing Movie of 2024 So Far  IGN",
+    "description": "Inside Out 2 has surpassed Dune: Part 2 to become the highestgrossing movie of 2024, and it only took eight days to secure that title at the U.S. box office.",
+    "url": "https://www.ign.com/articles/insideout2surpassesdunepart2highestgrossingmovieofyear",
+    "urlToImage": "https://assetsprd.ignimgs.com/2024/06/24/insideout2boxoffice1719225784513.jpg?width=1280",
+    "publishedAt": "20240624T12:33:57Z",
+    "content": "Inside Out 2 has surpassed Dune: Part 2 to become the highestgrossing movie of 2024, and it only took eight days to secure that title at the U.S. box office.\r\nAs reported by Variety, the animated te… [+1711 chars]"
+    },
+    {
+    "source": {
+    "id": "thewashingtonpost",
+    "name": "The Washington Post"
+    },
+    "author": "Isaac Erbele, MD",
+    "title": "Is it safe to play a white noise machine all night?  The Washington Post",
+    "description": "We conducted a review of the medical literature on white noise machines for young children. All the devices generated alarmingly loud sounds.",
+    "url": "https://www.washingtonpost.com/wellness/2024/06/24/whitenoisemachinesafe/",
+    "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/7MV2LK2D7FA7XEFW72VIMBR2CI.gif&w=1440",
+    "publishedAt": "20240624T12:32:37Z",
+    "content": "Ive been using a white noise machine since my son was born. It helps him sleep. Is that bad? Could it affect his hearing?\r\nMany American households turn to white noise machines to help their children… [+4359 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Ukraine war: Russia blames US and vows response for Crimea deaths  BBC.com",
+    "description": "Russia says USmade missiles programmed by American specialists were used in an attack which killed four.",
+    "url": "https://www.bbc.com/news/articles/c6pppr719rlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6779/live/c3e05d80322311ef9c68373b1486f79c.jpg",
+    "publishedAt": "20240624T12:27:00Z",
+    "content": "Russia has blamed the US and vowed \"consequences\" for a Ukrainian missile strike on Sevastopol in occupied Crimea on Sunday, which officials say killed four people  including two children. \r\nAround … [+3341 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Samuel Joseph",
+    "title": "Noah Lyles wins 100 meters at US trials to qualify for Paris Olympics  CNN",
+    "description": "World champion Noah Lyles sealed his spot at the Olympics Games in Paris this year, winning the men’s 100 meters at the US Olympic trials in Eugene, Oregon on Sunday.",
+    "url": "https://www.cnn.com/2024/06/24/sport/noahlyles100mustrialsolympicssptintl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240624t033942z1538940615mt1usatoday23609709rtrmadp3trackfieldusolympicteamtrials.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "20240624T12:18:00Z",
+    "content": "World champion Noah Lyles sealed his spot at the Olympics Games in Paris this year, winning the mens 100 meters at the US Olympic trials in Eugene, Oregon on Sunday.\r\nAfter winning the semifinal earl… [+2024 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "POLITICO",
+    "title": "Senate Democratic campaign arm launches ads on anniversary of Dobbs decision  POLITICO",
+    "description": null,
+    "url": "https://www.politico.com/liveupdates/2024/06/24/congress/roewadedobbsanniversarysenatedemocratsohiomontana00164471",
+    "urlToImage": null,
+    "publishedAt": "20240624T12:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "foxnews",
+    "name": "Fox News"
+    },
+    "author": "Greg Norman",
+    "title": "Princess Anne, sister of King Charles, suffers concussion, palace says  Fox News",
+    "description": "Princess Anne has suffered minor injuries and a concussion following an incident at her country home, Buckingham Palace announced Monday.",
+    "url": "https://www.foxnews.com/entertainment/princessannesisterkingcharlessuffersconcussionpalacesays",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/PrincessAnne.jpg",
+    "publishedAt": "20240624T11:57:00Z",
+    "content": "Princess Anne has suffered minor injuries and a concussion following an incident at her country home, Buckingham Palace announced Monday.\r\nAnne, who is the 73yearold sister of King Charles III, was… [+1300 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Gabrielle Fonrouge",
+    "title": "Fast fashion retailer Shein confidentially files for London IPO as U.S. listing stalls  CNBC",
+    "description": "Shein confidentially filed for a U.S. initial public offering late last year, but the retailer has faced mounting backlash.",
+    "url": "https://www.cnbc.com/2024/06/24/sheinfilesforlondonipo.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1074139241715606370233gettyimages2150274388europapress_5918123_shein_sign_during_its_opening_at_abc_ser.jpeg?v=1719229723&w=1920&h=1080",
+    "publishedAt": "20240624T11:56:52Z",
+    "content": "Shein, the fast fashion giant with links to China, has confidentially filed for a public listing in London as it faces backlash in the U.S., a person familiar with the matter told CNBC.\r\nThe company … [+3449 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "nj.com"
+    },
+    "author": "Jeff Goldman | NJ Advance Media for NJ.com",
+    "title": "N.J. weather: Heat wave finally breaks today, but it’ll be brief. Latest forecast.  NJ.com",
+    "description": "The weeklong heat wave in New Jersey comes to an end on Monday, but the 90degree temperatures will return quickly.",
+    "url": "https://www.nj.com/weather/2024/06/njweatherheatwavefinallybreakstodaybutitllbebrieflatestforecast.html",
+    "urlToImage": "https://www.nj.com/resizer/v2/DJ57R7CNIJEAPILSXU7BBOJBMQ.jpg?auth=d7a94dfcd026ddc3069f35104720ecebdc40858403a849cffcae2bf640d3014e&width=1280&quality=90",
+    "publishedAt": "20240624T11:19:00Z",
+    "content": "New Jersey will finally get a longawaited break Monday from the sweltering conditions that have baked the state for days before temperatures return to the 90s on Tuesday and Wednesday.\r\nHighs will b… [+2665 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Newsnationnow.com"
+    },
+    "author": "Anna Kutz",
+    "title": "Photographer captures moment missing California hiker located  NewsNation Now",
+    "description": "“It was obviously a very emotional and raw moment for everybody,” emergency rescue photographer Steve Kuehl said.",
+    "url": "https://www.newsnationnow.com/missing/missingcaliforniahikerlukasmcclishphotos/",
+    "urlToImage": "https://www.newsnationnow.com/wpcontent/uploads/sites/108/2024/06/image2.jpg?w=1280",
+    "publishedAt": "20240624T11:18:01Z",
+    "content": "(NewsNation) Ten days after a hike gone wrong, 34yearold Lukas McClish was found safe in Californias Big Basin Redwoods State Park and reunited with his family. One photographer captured it all. \r\n… [+1485 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "One million under flood warnings as heavy rain hits upper Midwest  BBC.com",
+    "description": "Elsewhere, tens of millions of Americans are still living under alerts due to a scorching heatwave.",
+    "url": "https://www.bbc.com/news/articles/c6ppp4z85y0o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07c6/live/3f5c8f60317511ef9b674f76bdccb1e6.jpg",
+    "publishedAt": "20240624T11:15:31Z",
+    "content": "By Nadine Yousif, BBC News\r\nOne person has died in South Dakota and hundreds of homes have been destroyed in Iowa during flooding in the upper US Midwest. \r\nSome rivers in the two states reached reco… [+2925 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Why Apple Intelligence won't run on older iPhones, or Vision Pro  9to5Mac",
+    "description": "When asked why Apple Intelligence won’t be available on older iPhones, the company has so far said that the chips...",
+    "url": "https://9to5mac.com/2024/06/24/appleintelligenceolderiphones/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2024/06/WhyAppleIntelligencewontrunonolderiPhones.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "20240624T11:15:00Z",
+    "content": "When asked why Apple Intelligence won’t be available on older iPhones, the company has so far said that the chips simply weren’t sufficiently powerful to provide a good experience. Responses would ta… [+2950 chars]"
+    }
+    ]
+    }
