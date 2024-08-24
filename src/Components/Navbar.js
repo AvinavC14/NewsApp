@@ -1,16 +1,13 @@
-import React, { Component } from 'react'
-import {
-  
-  Link
-  
-} from "react-router-dom";
-export default class Navbar extends Component {
-  render() {
-    return (
-      <nav className="navbar bg-dark fixed-top navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+import React from "react";
+import { Link } from "react-router-dom";
+const Navbar = () => {
+  return (
+    <nav
+      className="navbar bg-dark fixed-top navbar-expand-lg bg-body-tertiary"
+      data-bs-theme="dark"
+    >
       <div className="container-fluid">
         <Link className="navbar-brand text-white" to="/">
-
           NewsApp
         </Link>
         <button
@@ -21,7 +18,6 @@ export default class Navbar extends Component {
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
           aria-label="Toggle navigation"
-          
         >
           <span className="navbar-toggler-icon" />
         </button>
@@ -29,7 +25,6 @@ export default class Navbar extends Component {
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
               <Link className="nav-link text-white" aria-current="page" to="/">
-    
                 Home
               </Link>
             </li>
@@ -41,7 +36,6 @@ export default class Navbar extends Component {
             <li className="nav-item">
               <Link className="nav-link text-white" to="/business">
                 Business
-                
               </Link>
             </li>
             <li className="nav-item">
@@ -73,7 +67,6 @@ export default class Navbar extends Component {
         </div>
       </div>
     </nav>
-    )
-  }
-}
-
+  );
+};
+export default Navbar;
