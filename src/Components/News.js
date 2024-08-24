@@ -11,27 +11,28 @@ const News=(props)=> {
     // document.title=`${props.category} - NewsApp`;
 
    
-    const updatenews= async (pageno)=> {
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${pageno}&pageSize=${props.pageSize}`;
-        setloading(true)
-        props.setprogress(10);
-        let resp = await fetch(url);
-        props.setprogress(30);
-        let data = await resp.json()
-        props.setprogress(100);
-        
-            setarticles(data.articles)
-            settotalResults(data.totalResults)
-            setpage(pageno)
-           setloading(false)
-       
-    }
+   
 
     useEffect(() => {
+        const updatenews= async (pageno)=> {
+            let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${pageno}&pageSize=${props.pageSize}`;
+            setloading(true)
+            props.setprogress(10);
+            let resp = await fetch(url);
+            props.setprogress(30);
+            let data = await resp.json()
+            props.setprogress(100);
+            
+                setarticles(data.articles)
+                settotalResults(data.totalResults)
+                setpage(pageno)
+               setloading(false)
+           
+        }
         updatenews(page);
     
       
-    },[])
+    },[page,props])
     
  
     
