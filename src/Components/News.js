@@ -15,7 +15,7 @@ const News=(props)=> {
 
     useEffect(() => {
         const updatenews= async (pageno)=> {
-            let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${pageno}&pageSize=${props.pageSize}`;
+            let url = `https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${props.apiKey}&page=${pageno}&pageSize=${props.pageSize}`;
             setloading(true)
             props.setprogress(10);
             let resp = await fetch(url);
@@ -32,14 +32,14 @@ const News=(props)=> {
         updatenews(page);
     
       
-    },[page,props])
+    },[])
     
  
     
    const fetchMoreData = async () => {
        
        
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
         setloading(true)
         let resp = await fetch(url);
         let data = await resp.json()
